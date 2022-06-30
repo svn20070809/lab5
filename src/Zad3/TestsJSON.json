@@ -1,0 +1,25 @@
+{
+  "arr": [
+    {
+      "organization": "Звезда",
+      "fullName": "Иванов Иван Иванович",
+      "birthYear": 1999,
+      "result": 100.0,
+      "rankedPlace": 3
+    },
+    {
+      "organization": "Крест",
+      "fullName": "Сергеев Сергей Сергеевич",
+      "birthYear": 2001,
+      "result": 190.0,
+      "rankedPlace": 1
+    },
+    {
+      "organization": "Зенит",
+      "fullName": "Михайловский Михаил Михайлович",
+      "birthYear": 2004,
+      "result": 150.0,
+      "rankedPlace": 2
+    }
+  ]
+}
