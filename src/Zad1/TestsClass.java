@@ -6,6 +6,7 @@ public class TestsClass {
 
     public Integer[] Arr()
     {
+        int x=1;
         var file=new File("D:\\МУСОР!!!\\TestsFileJava.txt");
         var arr = new Integer[file.ReadByFile().length];
                for (int i = 0; i < file.ReadByFile().length; i++) {

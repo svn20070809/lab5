@@ -10,6 +10,7 @@ import java.io.*;
 
 public class JSON implements IFiles {
 
+    // 12345
     private String _fileName;
     private Collection collection;
     //C:\Users\eliza\IdeaProjects\Lab5\src\Zad3\TestsJSON.json
